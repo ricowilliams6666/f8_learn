@@ -50,4 +50,58 @@
 
     23. Thực hành sử dụng CSS internal
 
-    
+    24. ID và Class
+
+    25. Thực hành sử dụng CSS external
+
+    26. CSS selectors cơ bản #1
+
+    27. CSS selectors cơ bản #2
+
+    28. Ví dụ sử dụng CSS selectors cơ bản
+
+    30. Độ ưu tiên trong CSS
+
+    31. Thực hành độ ưu tiên trong CSS #1
+
+    32. Sử dụng biến trong CSS
+
+    33. Vấn đề khi không sử dụng biến CSS
+
+    34. Giải quyết vấn đề với biến CSS
+
+    35. Các đơn vị trong CSS
+
+    36. Ví dụ sử dụng đơn vị % #1
+
+    37. Reset margin được đặt mặc định
+
+    38. Thực hành reset CSS
+
+    39. Ví dụ sử dụng đơn vị % #2
+
+    40. Ví dụ sử dụng đơn vị rem #1
+
+    41. Vấn đề khi sử dụng px cho font-size
+
+    42. Ưu điểm khi sử dụng rem cho font-size
+
+    43. Một số hàm trong CSS
+
+    44. Thực hành dùng hàm var()
+
+    45. Thực hành dùng hàm rgba()
+
+    46. Pseudo classes trong CSS
+
+    47. Thực hành sử dụng :hover
+
+    48. Pseudo elements trong CSS
+
+    49. Thực hành sử dụng pseudo elements
+
+    50. Học thêm qua các câu hỏi
+
+
+4. Đệm, viền và khoảng lề
+    51. Thuộc tính padding(đệm)
