@@ -1,0 +1,53 @@
+1. BẮT ĐẦU
+
+    1. Bạn sẽ làm được gì sau khoá học
+
+    2. Tìm hiểu về HTML, CSS
+    3. Làm quen với Dev Tool
+
+    4. Cài đặt VS Code, Page Ruler extension
+
+    5. Khắc phục lỗi cài đặt Page Ruler Redux
+
+    6. Lưu ý khi học lập trình tại F8
+
+    7. Mua áo F8 | Đăng ký học Offline
+
+    8. Tham gia cộng đồng F8 trên Discord
+
+
+2. Làm quen với HTML
+
+    9. Cấu trúc của 1 file HTML
+    
+    10. Làm quen với màn thử thách
+
+    11. Ví dụ cấu trúc file HTML
+
+    12. Comments trong HTML
+
+    13. Ví dụ comments trong HTML
+
+    14. Các thẻ HTML thông dụng
+
+    15. Ví dụ thẻ HTML thông dụng
+
+    16. Bài tập thẻ HTML thông dụng #1
+
+    17. Bài tập thẻ HTML thông dụng #2
+
+    18. Bài tập thẻ HTML thông dụng #3
+
+    19. Attribute trong HTML là gì?
+
+    20. Bài tập sử dụng Attribute #1
+
+    21. Cách quản lý thư mục dự án
+
+3. Làm quen với CSS
+
+    22. Sử dụng CSS trong HTML
+
+    23. Thực hành sử dụng CSS internal
+
+    
